@@ -1,0 +1,6 @@
+something
+Test(<tests.Tests testMethod=test_1>) ... ok
+Test(<tests.Tests testMethod=test_2>) ... ok
+Test(<tests.Tests testMethod=test_3>) ... ok
+Test(<tests.Tests testMethod=test_4>) ... ok
+something

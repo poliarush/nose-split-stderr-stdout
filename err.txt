@@ -1,0 +1,2 @@
+Test(<tests.Tests testMethod=test_5>) ... failure
+	(<type 'exceptions.AssertionError'>, AssertionError('error',), <traceback object at 0x02B1C878>)
